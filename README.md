@@ -9,6 +9,10 @@ Insurance Claims.pbix
 - In SA there is a problem that not enough people are insured. By targeting customers that add positive_net_value, it also makes sure that the 
 business is profitable in the long run.
 - The dashboard is built off the 'Advanced Features Claims Data.csv' file below
+- The Dashboard shows a summary page where one can select positive or negative net value customers and see what their attributes are
+- There are two additional pages
+- There is a page which shows which features are most influatial in whether a claim is fraudulent or not
+- Another page is showing which features are most influential in showing if a customer is adding positive net value or not
 
 Excel Files:
 
