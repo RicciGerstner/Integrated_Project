@@ -1,5 +1,7 @@
 # Integrated_Project
 
+Contents:
+
 PowerBi File:
 
 Insurance Claims.pbix
@@ -8,8 +10,6 @@ Insurance Claims.pbix
 	- In SA there is a problem that not enough people are insured. By targeting customers that add positive_net_value, it also makes sure that the 
 	business is profitable in the long run.
 	- The dashboard is built off the 'Advanced Features Claims Data.csv' file below
-
-Contents:
 
 Excel Files:
 
