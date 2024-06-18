@@ -5,8 +5,7 @@ Contents:
 PowerBi File:
 
 Insurance Claims.pbix
-- The main aim is to show what the attributes positive net value clients are
-- So that the company can look to attract more of these clients and promote the insurance industry to them
+- The main aim is to show what the attributes positive net value clients are so that the company can look to attract more of these clients and promote the insurance industry
 - In SA there is a problem that not enough people are insured. By targeting customers that add positive_net_value, it also makes sure that the 
 business is profitable in the long run.
 - The dashboard is built off the 'Advanced Features Claims Data.csv' file below
